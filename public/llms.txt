@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://growup-51d24eee.zappy5.app
+https://example.com
 חברת ייעוץ משכנתאות ופיננסים שמתמחה במחזור משכנתאות, איחוד הלוואות וליווי אישי לרוכשי דירה ראשונה. הורידו את ההחזר החודשי והריבית עוד היום!
 
 ### שירותים
-https://growup-51d24eee.zappy5.app/services
+https://example.com/services
 שירותי מחזור משכנתא, איחוד הלוואות לבעלי נכסים ומשכנתאות מותאמות אישית. ייעוץ פיננסי חכם שמביא לתוצאות מוכחות - התחילו לחסוך עכשיו.
 
 ### אודות
-https://growup-51d24eee.zappy5.app/about
+https://example.com/about
 צוות מומחי משכנתאות ופיננסים בעל ניסיון עשיר במחזור משכנתאות, איחוד הלוואות וליווי פיננסי מלא. בואו להכיר את האנשים שיחסכו לכם כסף.
 
 ### צור קשר
-https://growup-51d24eee.zappy5.app/contact
+https://example.com/contact
 צרו קשר עוד היום לייעוץ ראשוני ללא עלות במחזור משכנתאות, איחוד הלוואות או משכנתא חדשה. המומחים שלנו מחכים לחסוך לכם אלפי שקלים בשנה.
 
 ### תודה שפניתם אלינו
-https://growup-51d24eee.zappy5.app/thank-you
+https://example.com/thank-you
 growup-יועצי משכנתאות ופיננסים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://growup-51d24eee.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://growup-51d24eee.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://growup-51d24eee.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://growup-51d24eee.zappy5.app/contact
-- Endpoint: https://growup-51d24eee.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Mortgage & Financial Consulting
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://growup-51d24eee.zappy5.app/sitemap.xml
-- Robots: https://growup-51d24eee.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://growup-51d24eee.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
