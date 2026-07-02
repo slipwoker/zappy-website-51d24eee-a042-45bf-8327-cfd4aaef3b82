@@ -1,0 +1,84 @@
+# growup-יועצי משכנתאות ופיננסים — Generative Engine Optimization Map
+
+> A mortgage and financial consulting firm specializing in guiding clients through the process of obtaining new mortgages, consolidating loans, and refinancing existing mortgages. The business focuses on reducing monthly payments and interest rates for property owners, providing personalized advisory and full accompaniment throughout the financial process. The firm positions itself as a comprehensive solution for clients looking to optimize their financial obligations related to real estate.
+
+---
+
+## Pages
+
+### בית
+https://growup-51d24eee.zappy5.app
+חברת ייעוץ משכנתאות ופיננסים שמתמחה במחזור משכנתאות, איחוד הלוואות וליווי אישי לרוכשי דירה ראשונה. הורידו את ההחזר החודשי והריבית עוד היום!
+
+### שירותים
+https://growup-51d24eee.zappy5.app/services
+שירותי מחזור משכנתא, איחוד הלוואות לבעלי נכסים ומשכנתאות מותאמות אישית. ייעוץ פיננסי חכם שמביא לתוצאות מוכחות - התחילו לחסוך עכשיו.
+
+### אודות
+https://growup-51d24eee.zappy5.app/about
+צוות מומחי משכנתאות ופיננסים בעל ניסיון עשיר במחזור משכנתאות, איחוד הלוואות וליווי פיננסי מלא. בואו להכיר את האנשים שיחסכו לכם כסף.
+
+### צור קשר
+https://growup-51d24eee.zappy5.app/contact
+צרו קשר עוד היום לייעוץ ראשוני ללא עלות במחזור משכנתאות, איחוד הלוואות או משכנתא חדשה. המומחים שלנו מחכים לחסוך לכם אלפי שקלים בשנה.
+
+### תודה שפניתם אלינו
+https://growup-51d24eee.zappy5.app/thank-you
+growup-יועצי משכנתאות ופיננסים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://growup-51d24eee.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://growup-51d24eee.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://growup-51d24eee.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://growup-51d24eee.zappy5.app/contact
+- Endpoint: https://growup-51d24eee.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About growup-יועצי משכנתאות ופיננסים
+A mortgage and financial consulting firm specializing in guiding clients through the process of obtaining new mortgages, consolidating loans, and refinancing existing mortgages. The business focuses on reducing monthly payments and interest rates for property owners, providing personalized advisory and full accompaniment throughout the financial process. The firm positions itself as a comprehensive solution for clients looking to optimize their financial obligations related to real estate.
+
+## Target Audience
+- בעלי נכסים, רוכשי דירות, לווים המעוניינים באיחוד הלוואות או מחזור משכנתא
+- בעלי נכסים
+- רוכשי דירות ראשונים
+- מעוניינים באיחוד הלוואות
+- מחפשי מחזור משכנתאות
+
+## Industry
+Mortgage & Financial Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://growup-51d24eee.zappy5.app/sitemap.xml
+- Robots: https://growup-51d24eee.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://growup-51d24eee.zappy5.app/llms-full.txt
