@@ -6,25 +6,25 @@
 
 ## Pages
 
-### בית
+### לחסוך אלפי שקלים במשכנתא — growup-יועצי משכנתאות ופיננסים
 https://growup-mortgage-and-finance-co.zappy5.app
 חברת ייעוץ משכנתאות ופיננסים שמתמחה במחזור משכנתאות, איחוד הלוואות וליווי אישי לרוכשי דירה ראשונה. הורידו את ההחזר החודשי והריבית עוד היום!
 
-### שירותים
-https://growup-mortgage-and-finance-co.zappy5.app/services
-שירותי מחזור משכנתא, איחוד הלוואות לבעלי נכסים ומשכנתאות מותאמות אישית. ייעוץ פיננסי חכם שמביא לתוצאות מוכחות - התחילו לחסוך עכשיו.
-
-### אודות
+### יועצי משכנתאות ששמים אתכם במרכז — growup-יועצי משכנתאות ופיננסים
 https://growup-mortgage-and-finance-co.zappy5.app/about
 צוות מומחי משכנתאות ופיננסים בעל ניסיון עשיר במחזור משכנתאות, איחוד הלוואות וליווי פיננסי מלא. בואו להכיר את האנשים שיחסכו לכם כסף.
 
-### צור קשר
-https://growup-mortgage-and-finance-co.zappy5.app/contact
-צרו קשר עוד היום לייעוץ ראשוני ללא עלות במחזור משכנתאות, איחוד הלוואות או משכנתא חדשה. המומחים שלנו מחכים לחסוך לכם אלפי שקלים בשנה.
+### הפחתת תשלומים חודשית תוך 30 יום — growup-יועצי משכנתאות ופיננסים
+https://growup-mortgage-and-finance-co.zappy5.app/services
+שירותי מחזור משכנתא, איחוד הלוואות לבעלי נכסים ומשכנתאות מותאמות אישית. ייעוץ פיננסי חכם שמביא לתוצאות מוכחות - התחילו לחסוך עכשיו.
 
 ### תודה שפניתם אלינו
 https://growup-mortgage-and-finance-co.zappy5.app/thank-you
 growup-יועצי משכנתאות ופיננסים - תודה שפניתם אלינו
+
+### הגיע הזמן להפסיק לשלם יותר מדי — growup-יועצי משכנתאות ופיננסים
+https://growup-mortgage-and-finance-co.zappy5.app/contact
+צרו קשר עוד היום לייעוץ ראשוני ללא עלות במחזור משכנתאות, איחוד הלוואות או משכנתא חדשה. המומחים שלנו מחכים לחסוך לכם אלפי שקלים בשנה.
 
 ## Legal & Policy
 
@@ -55,11 +55,11 @@ Information about WCAG compliance and accessibility features.
 - Method: POST
 - Content-Type: application/json
 - Fields:
-  - `name` (text, required)
-  - `email` (email, required)
-  - `phone` (tel, required)
-  - `message` (textarea, required)
-  - `privacy_consent` (checkbox, required)
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
 
 ---
 

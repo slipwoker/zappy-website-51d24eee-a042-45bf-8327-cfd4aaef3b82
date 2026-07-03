@@ -7,13 +7,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://growup-mortgage-and-finance-co.zappy5.app/about</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://growup-mortgage-and-finance-co.zappy5.app/services</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://growup-mortgage-and-finance-co.zappy5.app/about</loc>
+    <loc>https://growup-mortgage-and-finance-co.zappy5.app/thank-you</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -22,12 +28,6 @@
     <loc>https://growup-mortgage-and-finance-co.zappy5.app/contact</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://growup-mortgage-and-finance-co.zappy5.app/thank-you</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
