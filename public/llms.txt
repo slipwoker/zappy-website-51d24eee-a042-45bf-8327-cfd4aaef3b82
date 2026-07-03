@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: growup.inbox@gmail.com
+- Phone: 0723457599
+- Phone (tel): tel:0723457599
+- Address: טייבה, במשולש, 4040000
 
 ### Contact form
 - URL: https://example.com/contact
