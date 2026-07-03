@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://growup-mortgage-and-finance-co.zappy5.app
 חברת ייעוץ משכנתאות ופיננסים שמתמחה במחזור משכנתאות, איחוד הלוואות וליווי אישי לרוכשי דירה ראשונה. הורידו את ההחזר החודשי והריבית עוד היום!
 
 ### שירותים
-https://example.com/services
+https://growup-mortgage-and-finance-co.zappy5.app/services
 שירותי מחזור משכנתא, איחוד הלוואות לבעלי נכסים ומשכנתאות מותאמות אישית. ייעוץ פיננסי חכם שמביא לתוצאות מוכחות - התחילו לחסוך עכשיו.
 
 ### אודות
-https://example.com/about
+https://growup-mortgage-and-finance-co.zappy5.app/about
 צוות מומחי משכנתאות ופיננסים בעל ניסיון עשיר במחזור משכנתאות, איחוד הלוואות וליווי פיננסי מלא. בואו להכיר את האנשים שיחסכו לכם כסף.
 
 ### צור קשר
-https://example.com/contact
+https://growup-mortgage-and-finance-co.zappy5.app/contact
 צרו קשר עוד היום לייעוץ ראשוני ללא עלות במחזור משכנתאות, איחוד הלוואות או משכנתא חדשה. המומחים שלנו מחכים לחסוך לכם אלפי שקלים בשנה.
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://growup-mortgage-and-finance-co.zappy5.app/thank-you
 growup-יועצי משכנתאות ופיננסים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://growup-mortgage-and-finance-co.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://growup-mortgage-and-finance-co.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://growup-mortgage-and-finance-co.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,8 +50,8 @@ Information about WCAG compliance and accessibility features.
 - Address: טייבה, במשולש, 4040000
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://growup-mortgage-and-finance-co.zappy5.app/contact
+- Endpoint: https://growup-mortgage-and-finance-co.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Mortgage & Financial Consulting
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://growup-mortgage-and-finance-co.zappy5.app/sitemap.xml
+- Robots: https://growup-mortgage-and-finance-co.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://growup-mortgage-and-finance-co.zappy5.app/llms-full.txt
